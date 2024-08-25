@@ -21,9 +21,21 @@ Tripify 2.0 is the upgraded version of our comprehensive travel and tourism solu
 - **Database Integration:** MySQL database for efficient data management.
 
 ## Contributors
-| Name                          | ID            |
-| ----------------------------- | ------------- |
-| Turjo Das Dip                 | 22-48558-3    |
-| Shaily Saha                   | 22-48530-3    |
-| Pretom Chandra Roy            | 22-48556-3    |
-| Mutahhara Takia Jaman         | 22-48334-3    |
+<table>
+    <tr>
+        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/turjo.jpg" alt="Turjo Das Dip" width="100"></td>
+        <td>Turjo Das Dip<br>ID: 22-48558-3</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/shaily.jpg" alt="Shaily Saha" width="100"></td>
+        <td>Shaily Saha<br>ID: 22-48530-3</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/pretom.jpg" alt="Pretom Chandra Roy" width="100"></td>
+        <td>Pretom Chandra Roy<br>ID: 22-48556-3</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/takia.jpg" alt="Mutahhara Takia Jaman" width="100"></td>
+        <td>Mutahhara Takia Jaman<br>ID: 22-48334-3</td>
+    </tr>
+</table>
