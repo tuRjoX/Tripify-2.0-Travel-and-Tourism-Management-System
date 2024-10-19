@@ -20,22 +20,5 @@ Tripify 2.0 is the upgraded version of our comprehensive travel and tourism solu
 - **User Authentication:** Secure user accounts with authentication features.
 - **Database Integration:** MySQL database for efficient data management.
 
-## Contributors
-<table>
-    <tr>
-        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/turjo.jpg" alt="Turjo Das Dip" width="100"></td>
-        <td>Turjo Das Dip<br>ID: 22-48558-3</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/shaily.jpg" alt="Shaily Saha" width="100"></td>
-        <td>Shaily Saha<br>ID: 22-48530-3</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/pretom.jpg" alt="Pretom Chandra Roy" width="100"></td>
-        <td>Pretom Chandra Roy<br>ID: 22-48556-3</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/tuRjoX/Tripify-2.0/blob/master/images/devs/takia.jpg" alt="Mutahhara Takia Jaman" width="100"></td>
-        <td>Mutahhara Takia Jaman<br>ID: 22-48334-3</td>
-    </tr>
-</table>
+## Notice
+**Disclaimer:** This project, Tripify 2.0, is the intellectual property of Turjo Das Dip. No part of this project may be used, copied, or distributed without explicit permission from the author. If you wish to use the previous version, you can find [**Tripify 1.0**](https://github.com/tuRjoX/Tripify-A-Travel-and-Tourisam-Management-Solution).
